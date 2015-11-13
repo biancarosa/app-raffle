@@ -1,3 +1,7 @@
+body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
 .button-success,
 .button-secondary {
   color: white;
@@ -36,4 +40,8 @@
 
 .body-adjust {
   padding-left: 10px;
+}
+
+#content {
+  text-align: center;
 }
